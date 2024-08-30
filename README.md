@@ -3,8 +3,7 @@
 - 🌱 I’m currently honing my skills in DSA
 - 💞️ I’m looking to collaborate on X & linkedin
 - 📫 Reach me on : https://x.com/pichika_ganesh & https://www.linkedin.com/in/pichikaganesh/
-- 😄 Pronouns: Crypto Punk
-- ⚡ Fun fact:
+- ⚡ Crypto Punk #10001 
 
 <!---
 HNVS-GANESH-PICHIKA/HNVS-GANESH-PICHIKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
