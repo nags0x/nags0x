@@ -36,7 +36,7 @@ print(" ████████████████████████
 
 <!-- Horizontal line -->
 ---
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hnvs-ganesh-pichika" alt="hnvs-ganesh-pichika" /></a> </p>
 <!-- Use HTML for side-by-side images with a gap -->
 <div style="display: flex; justify-content: space-between;">
 
@@ -56,7 +56,7 @@ print(" ████████████████████████
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hnvs-ganesh-pichika" alt="hnvs-ganesh-pichika" /></a> </p>
+
 
 
 <p>
