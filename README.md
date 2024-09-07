@@ -29,7 +29,7 @@ print(" ████████████████████████
   I 🤍 Boring stuff
 </p>
 
-
+<br>
 
 
 # GitHub Stats
@@ -46,7 +46,7 @@ print(" ████████████████████████
 
 </div>
 
-
+<br>
 
 
 # Leetcode Stats
@@ -55,7 +55,7 @@ print(" ████████████████████████
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
 </div>
 
-<br><br>
+<br>
 # Liked it?
 <div align="left">
   <a href="https://www.buymeacoffee.com/pichikaganesh" style="text-decoration: none;">
