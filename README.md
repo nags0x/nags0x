@@ -51,15 +51,14 @@ print(" ████████████████████████
 
 # Leetcode Stats
 
-<div align="center">
+<div align="left">
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
 </div>
 
 <br><br>
-# Wanna buy me a coffee
-<div align="center">
+# Liked it?
+<div align="left">
   <a href="https://www.buymeacoffee.com/pichikaganesh" style="text-decoration: none;">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee"/>
   </a>
 </div>
-
