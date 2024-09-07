@@ -20,7 +20,10 @@ print(" ████████████████████████
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ !")
 ```
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hnvs-ganesh-pichika" alt="hnvs-ganesh-pichika" /></a> </p>
 
+
+<p>
 
 
 <div style="display: flex; gap: 10px;">
