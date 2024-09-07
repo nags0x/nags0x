@@ -62,4 +62,8 @@ print(" ████████████████████████
   <a href="https://www.buymeacoffee.com/pichikaganesh" style="text-decoration: none;">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee"/>
   </a>
+  <br>
+  Btc - bc1qp89pt4x5vkavk3j87456q3u6jl6dr60ck9qx92
+  <br>
+  Sol - Cvx7VFYBhsQHHiFpA2jp138Eo52WsLSReD3qVePEax19
 </div>
