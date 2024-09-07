@@ -49,25 +49,10 @@ print(" ████████████████████████
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-<p>
-
-
-<div style="display: flex; gap: 10px;">
-  <a href="https://hits.seeyoufarm.com" style="text-decoration: none;">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHNVS-GANESH-PICHIKA&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" width="110" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
+  <br><br>
   <a href="https://www.buymeacoffee.com/pichikaganesh" style="text-decoration: none;">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee"/>
   </a>
 </div>
