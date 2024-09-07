@@ -22,3 +22,4 @@ print(" ████████████████████████
 ```
 <iframe src="https://HNVS-GANESH-PICHIKA.github.io/github-repo-views-counter/" width="100%" height="500" frameborder="0"></iframe>
 ![](https://komarev.com/ghpvc/?username=HNVS-GANESH-PICHIKA)
+[![Image of https://github.com/HNVS-GANESH-PICHIKA/views_counter](https://github.com/HNVS-GANESH-PICHIKA/views_counter/blob/master/svg/profile/badge.svg)](https://github.com/HNVS-GANESH-PICHIKA/views_counter)
