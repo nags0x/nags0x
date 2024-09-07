@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{HNVS-GANESH-PICHIKA}/count.svg" alt="HNVS-GANESH-PICHIKA :: Visitor's Count" />
+</p>
 
 ```
 print(" ████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -25,9 +28,7 @@ print(" ████████████████████████
 <p align="center">
   I ❤️ Boring stuff
 </p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{HNVS-GANESH-PICHIKA}/count.svg" alt="HNVS-GANESH-PICHIKA :: Visitor's Count" />
-</p>
+
 
 
 
