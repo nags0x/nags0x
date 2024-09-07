@@ -26,7 +26,7 @@ print(" ████████████████████████
 ```
 
 <p align="center">
-  I love Boring stuff
+  I 🤍 Boring stuff
 </p>
 
 
