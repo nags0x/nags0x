@@ -32,6 +32,20 @@ print(" ████████████████████████
 
 
 
+<!-- Use HTML for side-by-side images with gap -->
+<div style="display: flex; justify-content: space-between;">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HNVS-GANESH-PICHIKA&theme=dark&hide_border=false" alt="Streak Stats" style="width: 48%; margin-right: 4%;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNVS-GANESH-PICHIKA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 48%;"/>
+
+</div>
+
+
+
+
+
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hnvs-ganesh-pichika" alt="hnvs-ganesh-pichika" /></a> </p>
 
