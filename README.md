@@ -20,7 +20,16 @@ print(" ████████████████████████
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ !")
 ```
+
+
+
+<p>
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHNVS-GANESH-PICHIKA&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" width="110"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHNVS-GANESH-PICHIKA&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" width="110" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>
   </a>
+
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHNVS-GANESH-PICHIKA%2FCipher-Assginments&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Cipher-Assignments&edge_flat=false" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+</p>
 
