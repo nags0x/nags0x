@@ -20,6 +20,9 @@ print(" ████████████████████████
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ !")
 ```
+<a href='https://www.gitclear.com/github_profile_dynamic_readme_free?expand_widget=1' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/b892c52a-e5d2-4ac7-83a9-27529b96f912.png' /></a>
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hnvs-ganesh-pichika" alt="hnvs-ganesh-pichika" /></a> </p>
 
 
