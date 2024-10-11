@@ -50,6 +50,9 @@ print(" ████████████████████████
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
 </div>
 
+# RFC
+https://intriguing-wolfberry-e1c.notion.site/RFC-11c1ffb6c91980d4b930f484f33e3480?pvs=4
+
 # Liked it?
 <div align="left">
   <a href="https://www.buymeacoffee.com/pichikaganesh" style="text-decoration: none;">
