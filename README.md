@@ -49,8 +49,10 @@ print(" ████████████████████████
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
 </div>
-
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<nagpichikaganesh>)](https://auth.geeksforgeeks.org/user/<nagpichikaganesh>/practice/)
+<div align="left">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=<nagpichikaganesh>" alt="GFG stats"/>
+</div>
+  
 # RfC
 https://intriguing-wolfberry-e1c.notion.site/RFC-11c1ffb6c91980d4b930f484f33e3480?pvs=4
 
