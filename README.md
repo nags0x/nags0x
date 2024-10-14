@@ -50,7 +50,9 @@ print(" ████████████████████████
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
 </div>
 <div align="left">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=<nagpichikaganesh>" alt="GFG stats"/>
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats"/>
+  <a href="https://www.geeksforgeeks.org/user/nagpichikaganesh/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats"/></a>
+
 </div>
   
 # RfC
