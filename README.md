@@ -54,6 +54,11 @@ print(" ████████████████████████
 <div align="left">
   <a href="https://www.geeksforgeeks.org/user/nagpichikaganesh/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats"/></a>
 </div>
+<a href="https://www.geeksforgeeks.org/user/nagpichikaganesh/" style="display: inline-block; border: 5px solid white; border-radius: 10px; overflow: hidden;">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats" />
+</a>
+
+
   
 # RfC
 https://intriguing-wolfberry-e1c.notion.site/RFC-11c1ffb6c91980d4b930f484f33e3480?pvs=4
