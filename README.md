@@ -26,7 +26,7 @@ print(" ████████████████████████
 ```
 
 <p align="center">
-  cout << " I 🤍 Boring stuff ";
+  cout << " I 🤍 tinkering the boring ";
 </p>
 
 # GitHub Stats
