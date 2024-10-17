@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{HNVS-GANESH-PICHIKA}/count.svg" alt="HNVS-GANESH-PICHIKA :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{nagpichikaganesh}/count.svg" alt="nagpichikaganesh :: Visitor's Count" />
 </p>
 
 ```
@@ -32,13 +32,13 @@ print(" ████████████████████████
 # GitHub Stats
 <!-- Horizontal line -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hnvs-ganesh-pichika" alt="hnvs-ganesh-pichika" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagpichikaganesh" alt="nagpichikaganesh" /></a> </p>
 <!-- Use HTML for side-by-side images with a gap -->
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HNVS-GANESH-PICHIKA&theme=dark&hide_border=true" alt="Streak Stats" style="width: 48%; margin-right: 4%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagpichikaganesh&theme=dark&hide_border=true" alt="Streak Stats" style="width: 48%; margin-right: 4%;"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNVS-GANESH-PICHIKA&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagpichikaganesh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 48%;"/>
 
 </div>
 
