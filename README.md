@@ -44,9 +44,13 @@ print(" ████████████████████████
 
 # Leetcode Stats
 
-<div align="left">
+<!--<div align="left">
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
+</div>-->
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/nagpichikaganesh?ext=heatmap" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
 </div>
+
 
 # GfG Stats 
 <div align="left">
