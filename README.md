@@ -2,7 +2,7 @@
   <img src="https://profile-counter.glitch.me/{nagpichikaganesh}/count.svg" alt="nagpichikaganesh :: Visitor's Count" />
 </p> -->
 <p align="center">
-  currenlty working on 0xtiles/ideation stage
+  currently working on 0xtiles/ideation stage
 </p>
 
 ```
