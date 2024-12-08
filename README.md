@@ -2,7 +2,10 @@
   <img src="https://profile-counter.glitch.me/{nagpichikaganesh}/count.svg" alt="nagpichikaganesh :: Visitor's Count" />
 </p> -->
 <p align="center">
-  currently working on 0xtiles/ideation stage
+  currently working on 0xtiles/ ideation stage
+</p>
+<p align="center">
+  motto/ tinker-the-boring
 </p>
 
 ```
@@ -28,9 +31,7 @@ printf(" ███████████████████████�
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ !")
 ```
 
-<p align="center">
-  tinker-the-boring
-</p>
+
 
 # GitHub Stats
 <!-- Horizontal line -->
