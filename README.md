@@ -56,7 +56,7 @@ printf(" ███████████████████████�
 </div>
 
 
-# more ugly nos
+# more nos
 <div align="left">
   <a href="https://www.geeksforgeeks.org/user/nagpichikaganesh/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats"/></a>
 </div>
