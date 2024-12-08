@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://profile-counter.glitch.me/{nagpichikaganesh}/count.svg" alt="nagpichikaganesh :: Visitor's Count" />
-</p>
+</p> -->
 
 ```
 printf(" ███████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -26,19 +26,19 @@ printf(" ███████████████████████�
 ```
 
 <p align="center">
-  cout << " I 🤍 tinkering the boring ";
+  cout << " tinker-the-boring ";
 </p>
 
 # GitHub Stats
 <!-- Horizontal line -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagpichikaganesh" alt="nagpichikaganesh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nags0x" alt="nags0x" /></a> </p>
 <!-- Use HTML for side-by-side images with a gap -->
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagpichikaganesh&theme=dark&hide_border=true" alt="Streak Stats" style="width: 48%; margin-right: 4%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nags0x&theme=dark&hide_border=true" alt="Streak Stats" style="width: 48%; margin-right: 4%;"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagpichikaganesh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nags0x&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 48%;"/>
 
 </div>
 
