@@ -46,7 +46,7 @@ printf(" ███████████████████████�
 
 </div>
 
-# Leetcode Stats
+# not so fancy nos
 
 <!--<div align="left">
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
@@ -56,7 +56,7 @@ printf(" ███████████████████████�
 </div>
 
 
-# GfG Stats 
+# more ugly nos
 <div align="left">
   <a href="https://www.geeksforgeeks.org/user/nagpichikaganesh/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats"/></a>
 </div>
