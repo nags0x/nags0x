@@ -7,7 +7,12 @@
 <p align="center">
   motto/ tinker-the-boring
 </p>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100%" alt="animated hello">
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="900" height="500" alt="animated hello">
+</p>
+
+
 <!--
 ```
 printf(" ███████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
