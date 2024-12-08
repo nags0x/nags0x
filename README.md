@@ -26,7 +26,7 @@ printf(" ███████████████████████�
 ```
 
 <p align="center">
-  cout << " tinker-the-boring ";
+  tinker-the-boring
 </p>
 
 # GitHub Stats
