@@ -62,7 +62,7 @@ printf(" ███████████████████████�
 
 
 
-# Shabby looking nos
+# shabby looking nos
 
 <!--<div align="left">
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
@@ -72,7 +72,7 @@ printf(" ███████████████████████�
 </div>
 
 
-# More nos
+# more nos
 <div align="left" style="width: 300px;">
   <a href="https://www.geeksforgeeks.org/user/nagpichikaganesh/">
     <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats" style="width: 50%;">
