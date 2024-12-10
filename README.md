@@ -55,7 +55,7 @@ printf(" ███████████████████████�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nags0x&theme=light&hide_border=true" alt="Streak Stats" style="width: 48%;"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nags0x&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 41%;"/>
-<img width="90" height= "130"  alt="Z3ZJjfbLXC6jBTn2Ls5KWn-removebg" src="https://github.com/user-attachments/assets/6b799684-ffd4-49d1-ace6-404290be6c8f">
+<img width="102" alt="Z3ZJjfbLXC6jBTn2Ls5KWn-removebg" src="https://github.com/user-attachments/assets/6b799684-ffd4-49d1-ace6-404290be6c8f">
 
 </p>
 
