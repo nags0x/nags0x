@@ -12,13 +12,13 @@
   motto/ tinker-the-boring
 </p>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
-</p> -->
+</p>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github.com/user-attachments/assets/533a6191-d2df-48fd-b8cd-d520096f818a" alt="Elon Musk entering Twitter HQ" width="640">
-</div>
+</div> -->
 
 <!--
 ```
@@ -74,14 +74,14 @@ printf(" ███████████████████████�
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
 </div>-->
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/nagpichikaganesh?ext=heatmap" alt="Leetcode Stats" style="transform: rotate(180deg); width: 50%"/>
+  <img src="https://leetcard.jacoblin.cool/nagpichikaganesh?ext=heatmap" alt="Leetcode Stats" style="transform: rotate(180deg); width: 60%"/>
 </div>
 
 
 # more nos
 <div align="left" style="width: 300px;">
   <a href="https://www.geeksforgeeks.org/user/nagpichikaganesh/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats" style="width: 50%;">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats" style="width: 60%;">
   </a>
 </div>
 
