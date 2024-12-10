@@ -56,7 +56,7 @@ printf(" ███████████████████████�
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nags0x&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 41%;"/>
 
-<img src="https://github.com/user-attachments/assets/dbc2fff1-2b97-4669-9706-a8f0c3a93d10" alt="bwian-brian" width="100" />
+<img src="https://github.com/user-attachments/assets/dbc2fff1-2b97-4669-9706-a8f0c3a93d10" alt="bwian-brian" width="50" />
 
 </p>
 
