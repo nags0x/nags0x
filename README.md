@@ -46,7 +46,7 @@ printf(" ███████████████████████�
 -->
 
 
-# GitHub Stats
+# github stats
 <!-- Horizontal line -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nags0x" alt="nags0x" /></a> </p>
@@ -83,7 +83,7 @@ printf(" ███████████████████████�
 # RfC
 https://intriguing-wolfberry-e1c.notion.site/RFC-11c1ffb6c91980d4b930f484f33e3480?pvs=4
 
-# Liked it?
+# liked it?
 <div align="left">
   <a href="https://www.buymeacoffee.com/pichikaganesh" style="text-decoration: none;">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee"/>
