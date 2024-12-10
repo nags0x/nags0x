@@ -62,7 +62,7 @@ printf(" ███████████████████████�
 
 
 
-# not so fancy nos
+# shabby nos
 
 <!--<div align="left">
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
