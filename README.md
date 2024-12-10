@@ -8,9 +8,16 @@
   motto/ tinker-the-boring
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
+</p> -->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d53cab3-0953-4065-9d3b-8254a8d85f08" alt="221026151430-elon-musk-entering-twitter-hq-1026-screenshot" width="500">
 </p>
+
+
+
 
 
 <!--
