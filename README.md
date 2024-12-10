@@ -13,7 +13,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d53cab3-0953-4065-9d3b-8254a8d85f08" alt="221026151430-elon-musk-entering-twitter-hq-1026-screenshot" width="750">
+  <img src="https://github.com/user-attachments/assets/2d53cab3-0953-4065-9d3b-8254a8d85f08" alt="221026151430-elon-musk-entering-twitter-hq-1026-screenshot" width="650">
 </p>
 
 
