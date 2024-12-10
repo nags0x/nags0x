@@ -12,13 +12,9 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
 </p> -->
 
-<p align="center">
-  <img width="640" alt="221026151430-elon-musk-entering-twitter-hq-1026-screenshot" src="https://github.com/user-attachments/assets/7bfb8507-20de-45ca-9cd0-f77503dc5d98" width="650">
-</p>
-
-
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/533a6191-d2df-48fd-b8cd-d520096f818a" alt="Elon Musk entering Twitter HQ" width="640">
+</div>
 
 <!--
 ```
