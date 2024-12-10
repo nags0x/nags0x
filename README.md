@@ -1,6 +1,9 @@
 <!--<p align="center">
   <img src="https://profile-counter.glitch.me/{nagpichikaganesh}/count.svg" alt="nagpichikaganesh :: Visitor's Count" />
 </p> -->
+
+<!-- U are pirating from "github.com/nags0x" i.e me :( -->
+
 <p align="center">
   currently working on 0xtiles/ ideation stage
 </p>
@@ -60,14 +63,17 @@ printf(" ███████████████████████�
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
 </div>-->
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/nagpichikaganesh?ext=heatmap" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
+  <img src="https://leetcard.jacoblin.cool/nagpichikaganesh?ext=heatmap" alt="Leetcode Stats" style="transform: rotate(180deg); width: 45%"/>
 </div>
 
 
 # more nos
-<div align="left">
-  <a href="https://www.geeksforgeeks.org/user/nagpichikaganesh/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats"/></a>
+<div align="left" style="width: 300px;">
+  <a href="https://www.geeksforgeeks.org/user/nagpichikaganesh/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats" style="width: 45%;">
+  </a>
 </div>
+
 
 # RfC
 https://intriguing-wolfberry-e1c.notion.site/RFC-11c1ffb6c91980d4b930f484f33e3480?pvs=4
