@@ -53,7 +53,7 @@ printf(" ███████████████████████�
 <!-- Use HTML for side-by-side images with a gap -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nags0x&theme=light&hide_border=true" alt="Streak Stats" style="width: 48%;"/>
-<img src="https://github.com/user-attachments/assets/10a3af6f-8b48-4f8b-a0f4-95bce93f6cb7" alt="party-furby" style="width: 70px; height: auto;">
+<img src="https://github.com/user-attachments/assets/10a3af6f-8b48-4f8b-a0f4-95bce93f6cb7" alt="party-furby" style="width: 73px; height: auto;">
 
 
 
