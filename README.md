@@ -12,8 +12,9 @@
   motto/ tinker-the-boring
 </p>
 
+
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
+  <img src="https://github.com/user-attachments/assets/f639fe0f-a7d2-45f0-9c97-42538b95dcc7" width="500" alt="animated hello">
 </p>
 
 <!--<div align="center">
