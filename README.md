@@ -53,6 +53,7 @@ printf(" ███████████████████████�
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nags0x" alt="nags0x" /></a> </p>
 <!-- Use HTML for side-by-side images with a gap -->
 <p align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nags0x&theme=light&hide_border=true" alt="Streak Stats" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nags0x&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="41%" />
