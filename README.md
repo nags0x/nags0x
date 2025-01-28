@@ -70,22 +70,22 @@ printf(" ███████████████████████�
 
 
 
-# shabby nos
+<!--# shabby nos
 
 <!--<div align="left">
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh" alt="Leetcode Stats" style="transform: rotate(180deg);"/>
 </div>-->
-<div align="left">
+<!--<div align="left">
   <img src="https://leetcard.jacoblin.cool/nagpichikaganesh?ext=heatmap" alt="Leetcode Stats" style="transform: rotate(180deg); width: 55%"/>
-</div>
+</div> -->
 
 
-# more nos
+<!--# more nos
 <div align="left" style="width: 300px;">
   <a href="https://www.geeksforgeeks.org/user/nagpichikaganesh/">
     <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nagpichikaganesh" alt="GFG stats" style="width: 55%;">
   </a>
-</div>
+</div> -->
 
 
 # RfC
