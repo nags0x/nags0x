@@ -1,10 +1,11 @@
+tinker the boring
 <!--<p align="center">
   <img src="https://profile-counter.glitch.me/{nagpichikaganesh}/count.svg" alt="nagpichikaganesh :: Visitor's Count" />
 </p> -->
 
 <!-- U are pirating from "github.com/nags0x" i.e me :( -->
 
-
+<!--
 <p align="center">
   currently working on 0xtiles/ ideation stage
 </p>
@@ -46,12 +47,13 @@ printf(" ███████████████████████�
 ```
 -->
 
-
+<!--
 # github stats
 <!-- Horizontal line -->
-
+<!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nags0x" alt="nags0x" /></a> </p>
 <!-- Use HTML for side-by-side images with a gap -->
+<!--
 <p align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nags0x&theme=light&hide_border=true" alt="Streak Stats" width="48%" />
@@ -87,7 +89,7 @@ printf(" ███████████████████████�
   </a>
 </div> -->
 
-
+<!--
 # RfC
 https://intriguing-wolfberry-e1c.notion.site/RFC-11c1ffb6c91980d4b930f484f33e3480?pvs=4
 
@@ -101,4 +103,5 @@ https://intriguing-wolfberry-e1c.notion.site/RFC-11c1ffb6c91980d4b930f484f33e348
 
 <h2 style="font-family: Arial, sans-serif;">Sol</h2>
 <p style="font-family: Arial, sans-serif;">Cvx7VFYBhsQHHiFpA2jp138Eo52WsLSReD3qVePEax19</p>
+
 
