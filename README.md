@@ -1,4 +1,4 @@
-tinker the boring
+  <img src = "https://github.com/user-attachments/assets/b978e78a-e426-482d-a93a-cfe0edb2fdc9" alt="Custom Image" width="10%" /> tinker_the_boring
 <!--<p align="center">
   <img src="https://profile-counter.glitch.me/{nagpichikaganesh}/count.svg" alt="nagpichikaganesh :: Visitor's Count" />
 </p> -->
