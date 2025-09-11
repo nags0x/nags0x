@@ -1,4 +1,4 @@
-tinker_the_boring <img width="112" height="112" alt="image" src="https://github.com/user-attachments/assets/5fbfac30-77ee-4e18-8d3b-9dec82ad5664" />
+tinker_the_boring ![Big Elon Dance](https://media.tenor.com/5xyoiI1HogwAAAAj/big-elon-dance.gif)
 
 <!--<p align="center">
   <img src="https://profile-counter.glitch.me/{nagpichikaganesh}/count.svg" alt="nagpichikaganesh :: Visitor's Count" />
