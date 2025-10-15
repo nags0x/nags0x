@@ -1,5 +1,5 @@
 <!-- Don't cp mf :) -->
-tinker_the_boring<img width="200" height="200" alt="Screenshot 2025-10-16 at 1 21 18 AM (3)" src="https://github.com/user-attachments/assets/ab5ff422-d3f0-4466-b393-1933b64c5de3" />
+<img width="200" height="200" alt="Screenshot 2025-10-16 at 1 21 18 AM (3)" src="https://github.com/user-attachments/assets/ab5ff422-d3f0-4466-b393-1933b64c5de3" />
 
 
 <!--<p align="center">
@@ -95,6 +95,7 @@ printf(" ███████████████████████�
 
 
 # RfC
+tinker_the_boring <br>
 https://intriguing-wolfberry-e1c.notion.site/RFC-11c1ffb6c91980d4b930f484f33e3480?pvs=4 <img src="https://media.tenor.com/D_lanvlgizMAAAAi/javier-guerrero-mew-pokemon-nintendo-pixel.gif" width="100">
 
 <!--
