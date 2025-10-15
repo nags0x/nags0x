@@ -1,9 +1,11 @@
 <!-- Don't cp mf :) -->
-tinker_the_boring ![Big Elon Dance](https://media.tenor.com/5xyoiI1HogwAAAAj/big-elon-dance.gif)
+tinker_the_boring<img width="100" height="100" alt="image (1) (2)" src="https://github.com/user-attachments/assets/b003d0b5-bbb8-479b-825b-8b3486d4c69a" />
 
 <!--<p align="center">
   <img src="https://profile-counter.glitch.me/{nagpichikaganesh}/count.svg" alt="nagpichikaganesh :: Visitor's Count" />
 </p> -->
+
+
 
 <!-- U are pirating from "github.com/nags0x" i.e me :( -->
 
