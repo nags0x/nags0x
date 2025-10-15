@@ -1,10 +1,10 @@
 <!-- Don't cp mf :) -->
-tinker_the_boring<img width="100" height="100" alt="image (1) (2)" src="https://github.com/user-attachments/assets/b003d0b5-bbb8-479b-825b-8b3486d4c69a" />
+tinker_the_boring<img width="200" height="200" alt="Screenshot 2025-10-16 at 1 21 18 AM (3)" src="https://github.com/user-attachments/assets/ab5ff422-d3f0-4466-b393-1933b64c5de3" />
+
 
 <!--<p align="center">
   <img src="https://profile-counter.glitch.me/{nagpichikaganesh}/count.svg" alt="nagpichikaganesh :: Visitor's Count" />
 </p> -->
-
 
 
 <!-- U are pirating from "github.com/nags0x" i.e me :( -->
