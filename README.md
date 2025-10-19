@@ -1,5 +1,5 @@
 <!-- Don't cp mf :) -->
-<img width="225" height="225" alt="Screenshot 2025-10-16 at 1 21 18 AM (3)" src="https://github.com/user-attachments/assets/ab5ff422-d3f0-4466-b393-1933b64c5de3" />
+<img width="220" height="220" alt="Screenshot 2025-10-16 at 1 21 18 AM (3)" src="https://github.com/user-attachments/assets/ab5ff422-d3f0-4466-b393-1933b64c5de3" />
 
 
 <!--<p align="center">
