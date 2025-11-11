@@ -94,9 +94,7 @@ printf(" ███████████████████████�
 </div> -->
 
 
-# RfC
 tinker_the_boring <br>
-https://intriguing-wolfberry-e1c.notion.site/RFC-11c1ffb6c91980d4b930f484f33e3480?pvs=4 <img src="https://media.tenor.com/D_lanvlgizMAAAAi/javier-guerrero-mew-pokemon-nintendo-pixel.gif" width="100">
 
 <!--
 # liked it?
