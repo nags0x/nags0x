@@ -1,5 +1,6 @@
 <!-- Don't cp mf :) -->
-<img width="300" height="300" alt="image (10)" src="https://github.com/user-attachments/assets/cd6517a3-c34a-4e40-893a-dcdfbb7bfcf4" />&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=nags0x&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=shadow_red" />
+<img width="300" height="300" alt="image (10)" src="https://github.com/user-attachments/assets/cd6517a3-c34a-4e40-893a-dcdfbb7bfcf4" />&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=nags0x&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=shadow_red&text_color=9198a1" />
+
 
 
 
